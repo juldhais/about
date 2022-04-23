@@ -145,7 +145,7 @@ a:hover {
   .quote h1 {
     margin: 100px 0px;
     padding: 40px 20px;
-    color: black; }
+    color: transparent; }
 
 footer {
   padding: 50px 0px 0px 0px; }
